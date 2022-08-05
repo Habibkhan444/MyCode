@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Modified slightly from https://homework.adhoc.team/proto/ while we build our own assessments
 
 # Proto
@@ -67,3 +68,6 @@ The first record in the file, when fully parsed, will have these values:
 | 'Debit'     | 1393108945     | 4136353673894269217 | 604.274335557087  |
 
 
+=======
+# MyCode
+>>>>>>> f045f81f87211d631aad4ea5d486e39b296f427f
